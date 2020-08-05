@@ -1,6 +1,4 @@
-# High Resolution Etendue Expansion for Holographic Displays
-"High Resolution Etendue Expansion for Holographic Displays" Follow up code using MATLAB &amp; L-BFGS method
-
+# Follow up codes for "High Resolution Etendue Expansion for Holographic Displays" using MATLAB &amp; L-BFGS method
 Link: [Github repository](https://github.com/dongheon-yoo/Holographic-Display-etendue-Expansion)
 
 # Dependencies
